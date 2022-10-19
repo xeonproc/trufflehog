@@ -16,7 +16,7 @@
 </div>
 
 ---
-##I LIKE GOSEC A LOT
+##I LIKE SEMGREP A LOT
 ## Join The Slack
 Have questions? Feedback? Jump in slack and hang out with us
 
